@@ -1,0 +1,3 @@
+const displaynumSeries = require('./Problem2');
+
+displaynumSeries.Series();
